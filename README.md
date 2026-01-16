@@ -7,23 +7,23 @@ Traditional cultural stories are disappearing. The wisdom of the past is often l
 Mythra bridges this gap. It is a Generative AI pipeline that adapts folklore and history into immersive, narrated, visual "comic-movies." By combining Large Language Models (LLMs), Image Generation, and Text-to-Speech (TTS), Mythra turns static text into a living, breathing storytelling experience.
 
 🚀 Key Features
-🎭 Multiple Story Modes:
+🎭 Multiple Story Modes
+Folk Tale: Revives ancient legends with a complete narrative arc.
 
-  Folk Tale: Revives ancient legends with a complete narrative arc.
+Historical: Narrates factual events through dramatic dialogue.
 
-  Historical: Narrates factual events through dramatic dialogue.
+Oral History: Simulates an elder sharing personal memories.
 
-  Oral History: Simulates an elder sharing personal memories.
+Interactive Role-Play: Lets the user influence the story's direction in real-time.
 
-  Interactive Role-Play: Let the user influence the story's direction in real-time.
+✨ Core Capabilities
+🗣️ Multilingual Support: Generates stories and audio in English, Hindi, and Tamil.
 
-  🗣️ Multilingual Support: Generates stories and audio in English, Hindi, and Tamil.
+🎨 Dynamic Visuals: Uses FLUX.1 to generate vibrant, comic-book style illustrations for every scene on the fly.
 
-  🎨 Dynamic Visuals: Uses FLUX.1 to generate vibrant, comic-book style illustrations for every scene on the fly.
+🎙️ Character Voices: Distinct audio narration using Sarvam AI, bringing characters to life with Indic-context speech.
 
-  🎙️ Character Voices: distinct audio narration using Sarvam AI, bringing characters to life with Indic-context speech.
-
-  🎬 Auto-Play Theater: A custom Streamlit player that sequences images and audio automatically for a movie-like experience.
+🎬 Auto-Play Theater: A custom Streamlit player that sequences images and audio automatically for a movie-like experience.
 
 ⚙️ Under the Hood
 Mythra creates a chain of generative agents to build a story:
