@@ -1,5 +1,8 @@
+<div align="center">
+
 📜 Mythra: Smart Cultural Storyteller
 Reviving Oral History for the Digital Generation ✨
+</div>
 
 👋 About The Project
 Traditional cultural stories are disappearing. The wisdom of the past is often locked in text-based books, while today's digital-native children prefer immersive videos and interactive media.
